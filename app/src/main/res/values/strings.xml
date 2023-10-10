@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CalculoAposentadoria</string>
+    <string name="textView">Calculadora de Aposentadoria</string>
+    <string name="textView_">Calcule quanto tempo falta para sua aposentadoria</string>
+    <string name="escolha_o_sexo">Escolha o sexo:</string>
+    <string-array name="sexo_options">
+        <item>Selecione</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string name="textViewIdade">Digite sua idade:</string>
+    <string name="hint">Ex.: 18</string>
+    <string name="button">Calcular</string>
+    <string name="mensagem_faltam_anos">Faltam %1$d anos para a aposentadoria.</string>
+    <string name="mensagem_resultado">Faltam $resultado anos para você se aposentar!</string>
+    <string name="mensagem_ja_aposentado">Você já está aposentado!</string>
+    <string name="mensagem_idade_invalida">Idade inválida. Por favor, insira uma idade válida.</string>
+    <string name="textViewContrib">Digite sua contribuição em anos:</string>
+    <string name="hintContrib">Ex.: 10</string>
+</resources>
