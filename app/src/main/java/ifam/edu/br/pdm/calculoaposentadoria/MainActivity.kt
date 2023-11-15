@@ -21,6 +21,7 @@ class MainActivity : Activity() {
         // Spinner
         val spinnerSexo = findViewById<Spinner>(R.id.spinner_sexo)
 
+        // Typeface
         val typeface = ResourcesCompat.getFont(this, R.font.chewy)
 
         // Caixa de Idade
